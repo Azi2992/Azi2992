@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Azi2992
+- 👀 I’m interested in Sql and Java
+- 🌱 I’m currently learning SQL and i'm newby in programming
+- 💞️ I’m looking for mentor to teach me or to supervise my code and give me advice
+- 📫 My e-mail ovlyakulyev@gmail.com
